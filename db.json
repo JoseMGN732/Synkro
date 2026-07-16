@@ -1,0 +1,35 @@
+{
+  "empresas": [
+    {
+      "id": 1,
+      "nombre": "Grupo Minorista Luxe",
+      "rubro": "Moda y Accesorios",
+      "estado": "Activo",
+      "progreso": 85,
+      "ultimaVenta": "$12,400"
+    },
+    {
+      "id": 2,
+      "nombre": "Logística Global",
+      "rubro": "Logística y Envío",
+      "estado": "Inactivo",
+      "progreso": 40,
+      "ultimaVenta": "$8,200"
+    },
+    {
+      "id": 3,
+      "nombre": "Cervezas Artesanales",
+      "rubro": "Alimentos y Bebidas",
+      "estado": "Pendiente",
+      "progreso": 65,
+      "ultimaVenta": "$3,100"
+    }
+  ],
+  "notificaciones": [
+    {
+      "id": 1,
+      "mensaje": "Pago pendiente de Cervezas Artesanales",
+      "fecha": "2026-06-30"
+    }
+  ]
+}
